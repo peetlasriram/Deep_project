@@ -1,0 +1,7 @@
+Agend 
+1.Set up the Github{Repository}
+2.New Environments
+3.Setup.py
+4.requirements,txt
+
+
